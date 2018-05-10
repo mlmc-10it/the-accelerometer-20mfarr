@@ -6,4 +6,5 @@ The picture below shows the code which starts the microbit off with a smile but 
 ![Microbit code](Screenshot.png)
 
 
+This Picture shows the code which displays acceleration of 3g's, 6g's and 8g's. The bar rises depending on the G-force it senses
 ![Microbit code](Screenshot1.png)
