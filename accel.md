@@ -4,3 +4,6 @@ The accelerometer on a microbit measures acceleration. The accelerometer can mea
 
 The picture below shows the code which starts the microbit off with a smile but when physically shook, a scrolling text appears; "Stop Shaking Device" 
 ![Microbit code](Screenshot.png)
+
+
+![Microbit code](Screenshot1.png)
